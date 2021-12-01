@@ -1,11 +1,11 @@
 {
-    "name": "TAURUS BOT",
-    "description": "taurus bot - Whatsapp Bot",
+    "name": "Minnal Ka Bot",
+    "description": "minnal bot - Whatsapp Bot",
     "logo": "https://bit.ly/3DOgLpP",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/muhammed-usrbot/taurus-bot",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "repository": "https://github.com/Rishadcp21/MinnalKabot",
+    "website":   "https://t.me/Legend_god001",
+    "success_url": "https://t.me/Legend_god001",
     "stack": "container",
     "env": {
         "TAURUS_CODE": {
