@@ -1,5 +1,5 @@
 {
-  "name": "Taurus-Bot",
+  "name": "MINNAL-Bot",
   "version": "2.0.0",
   "description": "Taurus whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
   "main": "./taurus-bot/bot.js",
@@ -8,20 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muhammed-usrbot/taurus-bot"
+    "url": "git+https://github.com/Rishadcp21/MinnalKabot"
   },
   "keywords": [
     "WhatsApp",
     "bgm",
     "Bot"
   ],
-  "author": "AsenaDev / Yusuf Usta",
-  "developer": "Muhammed / @karthik-terror-boy",
+  "author": "Rishad Cp / RISHAD CP",
+  "developer": "RISHAD CP / @l_e_g_e_n_d_g_o_d",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/muhammed-usrbot/taurus-bot/issues"
+    "url": "https://github.com/Rishadcp21/MinnalKabot/issues"
   },
-  "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
+  "homepage": "https://github.com/Rishadcp21/MinnalKabot#readme",
   "dependencies": {
     "raganork-bot": "1.4.2"
   }
