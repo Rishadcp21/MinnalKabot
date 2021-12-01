@@ -1,6 +1,6 @@
 
 <p align="center">
-𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓
+𝑴𝑰𝑵𝑵𝑨𝑳 𝑩𝑶𝑻
 
 ##
 <a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
@@ -10,22 +10,22 @@
 
 <div align="center">
 
-## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+MUHAMMED;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
+## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Minnal+WA+Bot+repo;Created+by+RISHADCP;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
 
  </a>
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="TUARUS" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
+<a href="#"><img title="MINNAL" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
 
 </p>
        
   <p align="center">
-<a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Rishadcp21/MinnalKabot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/Rishadcp21/MinnalKabot">Minnalkabot</a>
     <br>
        | © |
         Reserved |
@@ -36,26 +36,26 @@
 
 <h3 align="center">ᴄᴏɴᴛᴀᴄᴛ ᴍᴇ:</h3>
 <p align="center">
-<a href="https://instagram.com/taurus_mp4?utm_medium=copy_link" target="blank"><img align="center" src="TRSIG.png" alt="kyrie.baran" height="45" width="45" /></a>
+<a href="https://t.me/Legend_god001" target="blank"><img align="center" src="TRSIG.png" alt="kyrie.baran" height="45" width="45" /></a>
 </p>
 <h3 align="center">sᴜᴘᴘᴏʀᴛ ᴍᴇ:</h3>
 <p align="center">
-<a href="https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA" target="blank"><img align="center" src="TRSYT.png" height="45" width="60" /></a>
+<a href="https://wa.me/qr/6NVXAYUADGUIP1" target="blank"><img align="center" src="TRSYT.png" height="45" width="60" /></a>
 </p>
   
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammed-usrbot&show_icons=true&theme=dark&locale=en" alt="muhammed-usrbot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Minnalkabot&show_icons=true&theme=dark&locale=en" alt="Minnalkabot" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-usrbot&theme=dark" alt="muhammed-usrbot" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Minnalkabot&theme=dark" alt="Minnalkabot" /></p>
 </p>
 
 
 ##
-  <h3 align="center">ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ ᴏᴜʀ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ</h3>
+  <h3 align="center">ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ 𝗚𝗲𝘁 𝗠𝘆 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽</h3>
 <p align="center">
-  <a href="https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
+  <a href="https://wa.me/qr/6NVXAYUADGUIP1" target="blank"><img align="center" src="TRSWA.png"alt="kyrie.baran" height="50" width="50" /></a>
 </p>
 
 
@@ -126,14 +126,14 @@ By establishing the Taurus-Bot, you are deemed to have accepted these responsibi
 ## Developers 
   <div align="center">
     
-  [![muhammed-usrbot](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![Minnalkabot](https://github.com/Rishadcp21/MinnalKabot.png?size=100)](https://github.com/Rishadcp21/MinnalKabot) | [![saidalisaid2](https://github.com/Rishadcp21/MinnalKabot.png?size=100)](https://github.com/Rishadcp21/MinnalKabot) | [![Souravkl11](https://github.com/Rishadcp21/MinnalKabot.png?size=100)](https://github.com/Rishadcp21/MinnalKabot) 
 ----|----|----
-[MUHAMMED](https://github.com/muhammed-usrbot) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[RISHADCP](https://github.com/Rishadcp21/MinnalKabot) | [minnalkabot](https://github.com/Rishadcp21/MinnalKabot) | [Minnalkabot](https://github.com/Rishadcp21/MinnalKabot)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributer 
-`MUHAMMED`
+`RISHADCP`
         
         
 ## License 
